@@ -24,7 +24,7 @@ public class MainStock {
 				System.out.println(stock.prettyPrint());
 			}
 			
-			Thread.sleep(4000);
+			Thread.sleep(3000);
 		}
 	}
 }
